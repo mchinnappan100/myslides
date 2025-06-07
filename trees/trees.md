@@ -46,7 +46,7 @@ Exploring the diversity, classification, and environmental significance of trees
 
 ## 🌱 Conclusion
 
-Trees are vital to our ecosystem, offering a multitude of benefits that support environmental health, economic stability, and human well-being.([arborday.org][3])
+Trees are vital to our ecosystem, offering a multitude of benefits that support environmental health, economic stability, and human well-being 
 
 > "The best time to plant a tree was 20 years ago. The second best time is now." – Chinese Proverb
 
