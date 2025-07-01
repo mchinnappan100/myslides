@@ -1,5 +1,5 @@
 # 🔧 Internal Combustion Engines  
-### Powering the Modern World
+## Powering the Modern World
 
 ---
 
