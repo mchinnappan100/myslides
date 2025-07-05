@@ -103,8 +103,8 @@ This aids **training stability** and **gradient flow**, allowing deeper networks
 
 * Evaluated on machine translation tasks:
 
-  * **English→French**: 41.8 BLEU
-  * **English→German**: 28.4 BLEU
+  * **English to French**: 41.8 BLEU
+  * **English to German**: 28.4 BLEU
 * Outperforms LSTMs with fewer compute resources and faster training.
 
 ---
