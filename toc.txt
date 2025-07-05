@@ -25,6 +25,7 @@ https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/os/mac
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/os/unix.md
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/papers/diffusion.md
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/papers/transformer.md
+https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/papers/attention.md
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/README.md
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/sf/apex.md
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/sf/flow.md
