@@ -1,7 +1,3 @@
-Here’s the slide deck for **"Attention Is All You Need"** in the same clean markdown format as your Backpropagation example:
-
----
-
 ## Introduction to “Attention Is All You Need”
 
 “Attention Is All You Need” is a landmark paper by Vaswani et al. (2017) that introduced the Transformer architecture — a model that relies entirely on attention mechanisms, discarding recurrence and convolutions. This enabled faster training and more effective modeling of long-range dependencies.
@@ -127,6 +123,4 @@ This aids **training stability** and **gradient flow**, allowing deeper networks
 * **Lack of recurrence** means it may not always capture fine-grained temporal patterns.
 * Subsequent work addresses these with **sparse attention** and **efficient transformers**.
 
----
 
-Let me know if you want a version with diagrams, speaker notes, or export to PDF or slides!
