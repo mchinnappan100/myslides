@@ -18,6 +18,7 @@ https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/house/
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/ic/ic-engines.md
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/LLMs/LLMs.md
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/math/linear-algebra.md
+https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/math/linear-algebra-2.md
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/math/matrix.md
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/MCP/MCP.md
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/ml/tensor.md
