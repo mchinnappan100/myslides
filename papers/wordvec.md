@@ -20,9 +20,9 @@ They are fundamental to Natural Language Processing (NLP) tasks like machine tra
 
 **One-Hot Encoding:**
 
-```text
-[0, 0, 1, 0, 0]  → "apple"
-```
+
+[0, 0, 1, 0, 0]  is  "apple"
+
 
 * High-dimensional
 * Sparse (mostly 0s)
@@ -30,9 +30,9 @@ They are fundamental to Natural Language Processing (NLP) tasks like machine tra
 
 **Word Embedding:**
 
-```text
-[0.82, 0.12, 0.41]  → "apple"
-```
+
+[0.82, 0.12, 0.41]  is  "apple"
+
 
 * Low-dimensional
 * Dense
@@ -54,12 +54,12 @@ These models are trained on large corpora and learn word relationships from co-o
 
 ## 🧩 Example: Word2Vec
 
-```text
-king   → [0.25, 0.13, 0.67]  
-queen  → [0.26, 0.14, 0.65]  
-apple  → [0.82, 0.12, 0.41]  
-fruit  → [0.80, 0.15, 0.40]
-```
+
+king   is  [0.25, 0.13, 0.67]  
+queen  is  [0.26, 0.14, 0.65]  
+apple  is  [0.82, 0.12, 0.41]  
+fruit  is  [0.80, 0.15, 0.40]
+
 
 * **king** and **queen** are close in vector space
 * **apple** and **fruit** are also nearby
@@ -71,9 +71,9 @@ fruit  → [0.80, 0.15, 0.40]
 
 Word vectors enable **analogy solving**:
 
-```text
+
 king - man + woman ≈ queen
-```
+
 
 ✔ Captures **gender relationship**
 ✔ Useful in knowledge representation
