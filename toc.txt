@@ -35,3 +35,4 @@ https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/sf/rev
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/trees/trees.md
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/tennis/players.md
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/evolution/darwin.md
+https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/science/thermodynamics.md
