@@ -38,3 +38,4 @@ https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/tennis
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/evolution/darwin.md
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/science/thermodynamics.md
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/garden/italian-herbs.md
+https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/tamil/learnTamil.md
