@@ -1,7 +1,7 @@
 
 # 🌿 Protecting Your Garden from Deer
 
-### Keep Your Plants Safe from Hungry Visitors
+## Keep Your Plants Safe from Hungry Visitors
 
 
 ---
