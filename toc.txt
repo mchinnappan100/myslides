@@ -39,3 +39,4 @@ https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/evolut
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/science/thermodynamics.md
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/garden/italian-herbs.md
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/tamil/learnTamil.md
+https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/garden/protectFromDeer.md
