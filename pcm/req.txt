@@ -1,4 +1,3 @@
-write  a nice markdown slides 
 Agenda
 Tools for the trade
 - PCM  Visualizer
