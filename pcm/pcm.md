@@ -61,6 +61,19 @@
 6. 📈 **Visualize loaded data** with **PCM Visualizer**.
 
 ---
+## Flow
+```mermaid
+flowchart TD
+    A[👀 View PCM Data <br/> PCM Viewer] --> B[📊 Visualize PCM Data <br/> PCM Visualizer]
+    B --> C[🗑 Delete PCM Data <br/> Salesforce Bulk Delete]
+    C --> D[📈 Show Deletion Progress <br/> Org Comparison Tool]
+    D --> E[📥 Load PCM Data from Source Org <br/> Salesforce Migration Tool]
+    E --> F[📈 Show Loading Progress <br/> Org Comparison Tool]
+    F --> G[👀 View Loaded PCM Data <br/> PCM Viewer]
+    G --> H[📊 Visualize Loaded PCM Data <br/> PCM Visualizer]
+
+```
+---
 
 ## 💡 Use Case 2 — **Price Change Propagation**
 
