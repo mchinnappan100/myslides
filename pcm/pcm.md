@@ -12,7 +12,7 @@
 ### 🎯 **PCM Visualizer**
 - 📊 Visualizes the **PCM structure** interactively.
 
-### 🔍 **PCM Viewer**
+### 🔍 **PCM Viewer with Kovai (LLMs)**
 - 🗂 View & search **products in catalogs**.
 
 ### 🔄 **Salesforce Org Comparison Tool**
