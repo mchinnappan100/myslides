@@ -1,9 +1,9 @@
 
 
 ## Agenda
-- Tools for the trade — quick tour of tools 
-- Use Case 1 — PCM data refresh
-- Use Case 2 — Price change propagation
+### Tools for the trade — quick tour of tools 
+### Use Case 1 — PCM data refresh
+### Use Case 2 — Price change propagation
 
 ---
 
@@ -44,7 +44,7 @@
 ###  📦 **REST - API Tester**
 - 🔗 Test your APIs like PCM Connect API
 
-###  📦 **Local Catalog Query Tool **
+###  📦 **Local Catalog Query Tool**
 - 🔗 Test your APIs like PCM Connect API
 - [Local Catalog Query](https://mchinnappan100.github.io/pages2/tools/smt/localcatalog.html)
 
@@ -61,7 +61,7 @@
 6. 📈 **Visualize loaded data** with **PCM Visualizer**.
 
 ---
-## Flow
+## Flow for Use Case - 1
 ```mermaid
 flowchart TD
     A[👀 View PCM Data <br/> PCM Viewer] --> B[📊 Visualize PCM Data <br/> PCM Visualizer]
@@ -81,3 +81,11 @@ flowchart TD
 2. 🔁 Use **Salesforce Migration Tool** to propagate the change into the target org.
 
 ---
+
+## Flow for Use Case - 2 
+
+```mermaid
+flowchart LR
+    A[💲 Change PricebookEntry <br/> in Source Org] --> B[🚀 Salesforce Migration Tool]
+    B --> C[🔁 Apply Price Change <br/> in Target Org]
+```
