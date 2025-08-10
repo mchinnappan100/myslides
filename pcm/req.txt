@@ -1,0 +1,29 @@
+write  a nice markdown slides 
+Agenda
+Tools for the trade
+- PCM  Visualizer
+   - Shows the visualization of the PCM 
+- PCM Viewer
+   - View and search products in Catalogs
+-Salesforce Org Comparison Tool
+   - Compare data between two Salesforce orgs with interactive visualizations 
+- Salesforce Bulk Delete
+    - Helps to bulk Delete PCM Data
+-  SFQ
+   - Advanced SOQL Query Editor with BulkAPI Data Load, REST Console, and Data Visualization
+- Salesforce Migration Tool
+   -  Seamlessly migrate data between Salesforce orgs
+
+--- Use case 1
+- View the PCM Data using  PCM Viewer
+- Visualize PCM Data using PCM  Visualizer
+- Delete the current PCM Data in org
+    - Use Salesforce Org Comparison Tool to show the deletion progress
+- Populate the PCM Data from a source org to this org using Salesforce Migration Tool
+   -    Use Salesforce Org Comparison Tool to show the loading progress
+- View the Loaded PCM Data using  PCM Viewer
+- Visualize Loaded PCM Data using PCM  Visualizer
+
+--- Use Case 2
+- Make a price change (pricebookEntry) in source org
+- Use Salesforce Migration Tool to propagate that price change into a target or
