@@ -34,8 +34,18 @@
 ### 📦 **Salesforce Migration Tool**
 - 🔗 Seamlessly **migrate data between Salesforce orgs**.
 
+### 📦 **Load Plan Load Plan Visualizer**
+- 🔗 Upload and visualize your JSON load plan with interactive diagrams
+- [Load Plan Load Plan Visualizer](https://mchinnappan100.github.io/pages2/tools/load-plan/)
+
+
 ###  📦 **REST - API Tester**
 - 🔗 Test your APIs like PCM Connect API
+
+###  📦 **Local Catalog Query Tool *
+- 🔗 Test your APIs like PCM Connect API
+- [Local Catalog Query](https://mchinnappan100.github.io/pages2/tools/smt/localcatalog.html)
+
 
 ---
 
