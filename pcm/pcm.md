@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠 Tools for the Trade (1/2)
+## 🛠 Tools for the Trade (1/3)
 
 ### 🎯 **PCM Visualizer**
 - 📊 Visualizes the **PCM structure** interactively.
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠 Tools for the Trade (2/2)
+## 🛠 Tools for the Trade (2/3)
 
 ### 🧠 **SFQ**
 - ⚡ Advanced **SOQL Query Editor** with:
@@ -39,10 +39,12 @@
 - [Load Plan Load Plan Visualizer](https://mchinnappan100.github.io/pages2/tools/load-plan/)
 
 
+## 🛠 Tools for the Trade (3/3)
+
 ###  📦 **REST - API Tester**
 - 🔗 Test your APIs like PCM Connect API
 
-###  📦 **Local Catalog Query Tool *
+###  📦 **Local Catalog Query Tool **
 - 🔗 Test your APIs like PCM Connect API
 - [Local Catalog Query](https://mchinnappan100.github.io/pages2/tools/smt/localcatalog.html)
 
