@@ -42,6 +42,9 @@ https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/garden
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/tamil/learnTamil.md
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/garden/protectFromDeer.md
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/pcm/pcm.md
-https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/life/amish.md
+hhttps://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/life/amish.md
+https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/life/amish-food.md
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/history/british-in-india.md 
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/history/india-fight-for-independence.md
+
+
