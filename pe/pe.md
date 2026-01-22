@@ -86,7 +86,6 @@ Key lifecycle control includes:
 
 * Requires **extensive testing** to avoid functional regressions
 * Some platform features are restricted with encrypted fields
-* Dependency on **AWS Key Management Service (KMS)**
 
 ➡️ Mitigation planning is required before enablement
 
