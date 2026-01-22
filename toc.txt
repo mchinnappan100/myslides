@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/garden
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/tamil/learnTamil.md
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/garden/protectFromDeer.md
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/pcm/pcm.md
-hhttps://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/life/amish.md
+https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/life/amish.md
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/life/amish-food.md
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/history/british-in-india.md 
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/history/india-fight-for-independence.md
@@ -51,3 +51,4 @@ https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/ac/ac.
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/farm/fruit-trees.md
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/farm/food.md
 https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/stock/game.md
+https://raw.githubusercontent.com/mchinnappan100/myslides/refs/heads/main/pe/pe.md
