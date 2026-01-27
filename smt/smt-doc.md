@@ -5,7 +5,7 @@
 
 **Version 1.0.0**
 
-* Mohan Chinnappan*
+*Mohan Chinnappan*
 
 ---
 
